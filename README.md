@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:1a1a2e&height=200&section=header&text=Shravan%20Ambeer&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend%20•%20DevOps%20•%20AI/ML%20Engineer&descAlignY=55&descSize=20" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=BE+IT+Student+%40+CBIT+Hyderabad;Building+Real-Time+Data+%2B+ML+Systems;TacticalIQ+%7C+Kafka+%2B+Spark+%2B+GraphX;Quant+%2F+ML+%2F+SDE+%40+Goldman+Sachs+%26+UBS" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=BE+IT+Student+%40+CBIT+Hyderabad;Building+Real-Time+Data+%2B+ML+Systems;TacticalIQ+%7C+Kafka+%2B+Spark+%2B+GraphX;Quant+%2F+ML+%2F+SDE" alt="Typing SVG" />
 </a>
 
 <br/>
