@@ -18,7 +18,7 @@
 
 <br/>
 
-## 🧭 About Me
+## About Me
 
 ```yaml
 name: Ambeer Shravan Kumar
@@ -38,9 +38,7 @@ currently_building: TacticalIQ — real-time football tactics engine
 
 <br/>
 
-## 🚀 Featured Builds
-
-## 🚀 Featured Builds
+## Featured Builds
 
 <table>
 <tr>
